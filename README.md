@@ -7,7 +7,7 @@ A 125B model building full apps on a mainstream 12 GB card. This repo has everyt
 ![Build](https://img.shields.io/badge/Build-Maya--S24%20(94.7%20GB)-0ea5e9?style=for-the-badge)
 ![RAM](https://img.shields.io/badge/RAM-60%20GB-f59e0b?style=for-the-badge)
 
-[![Video](https://img.shields.io/badge/Video-NetworkCoder-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=PPE3OHQiL5M)
+[![Video](https://img.shields.io/badge/Video-NetworkCoder-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=JECebDlkYmI)
 
 
 📺 **Video:** [Qwen 35B Is Now Insanely Fast on a 6GB GPU! (New llama.cpp)](https://www.youtube.com/watch?v=JECebDlkYmI) *(add the video link)*
