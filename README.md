@@ -3,7 +3,7 @@
 A 125B model building full apps on a mainstream 12 GB card. This repo has everything from the video: the exact model file, every command and setting, the benchmark, all 3 prompts (word for word), all 3 builds, and the full server logs.
 
 ![GPU](https://img.shields.io/badge/Tested%20on-RTX%205070%2012GB-76b900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Model](https://img.shields.io/badge/Model-GLM--5.3--Flash%20321B-7c5cff?style=for-the-badge)
+![Model](https://img.shields.io/badge/Model-Qwen-3.8.125--Flash%20321B-7c5cff?style=for-the-badge)
 ![Build](https://img.shields.io/badge/Build-Maya--S24%20(94.7%20GB)-0ea5e9?style=for-the-badge)
 ![RAM](https://img.shields.io/badge/RAM-60%20GB-f59e0b?style=for-the-badge)
 
