@@ -2,7 +2,12 @@
 
 A 125B model building full apps on a mainstream 12 GB card. This repo has everything from the video: the exact model file, every command and setting, the benchmark, all 3 prompts (word for word), all 3 builds, and the full server logs.
 
-![llama.cpp](https://img.shields.io/badge/basalt-v0.4.1-orange) ![GPU](https://img.shields.io/badge/GPU-12GB%20V%20ram-76b900) ![RAM](https://img.shields.io/badge/RAM-64GB-0ea5e9) ![Model](https://img.shields.io/badge/Model-Qwen3.6%2035B--A3B-blue) ![Agent](https://img.shields.io/badge/Agent-Pi-black) ![Cost](https://img.shields.io/badge/Cloud%20API-%240-brightgreen)
+![GPU](https://img.shields.io/badge/Tested%20on-RTX%205070%2012GB-76b900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Model](https://img.shields.io/badge/Model-GLM--5.3--Flash%20321B-7c5cff?style=for-the-badge)
+![Build](https://img.shields.io/badge/Build-Maya--S24%20(94.7%20GB)-0ea5e9?style=for-the-badge)
+![RAM](https://img.shields.io/badge/RAM-60%20GB-f59e0b?style=for-the-badge)
+
+[![Video](https://img.shields.io/badge/Video-NetworkCoder-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=PPE3OHQiL5M)
 
 
 📺 **Video:** [Qwen 35B Is Now Insanely Fast on a 6GB GPU! (New llama.cpp)](https://www.youtube.com/watch?v=JECebDlkYmI) *(add the video link)*
