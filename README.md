@@ -2,7 +2,7 @@
 
 A 125B model building full apps on a mainstream 12 GB card. This repo has everything from the video: the exact model file, every command and setting, the benchmark, all 3 prompts (word for word), all 3 builds, and the full server logs.
 
-▶️ **Video:** *Frontier Class AI: Basalt on RTX 5070 Tested* (link in the channel)
+▶️ **Video:** *Frontier Class AI: Basalt on RTX 5070 Tested* (https://www.youtube.com/watch?v=JECebDlkYmI)
 
 ---
 
